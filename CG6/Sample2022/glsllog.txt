@@ -1,0 +1,4 @@
+
+ERROR: 0:3: 'compatability' : unknown profile in #version directive 
+
+

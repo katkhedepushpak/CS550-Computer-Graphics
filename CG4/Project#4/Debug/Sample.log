@@ -1,0 +1,14 @@
+﻿  sample.cpp
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(379,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(489,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(982,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(983,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(984,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(989,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(990,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(991,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(1098,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(1098,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(1099,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG4\Project#4\sample.cpp(1099,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : fatal error LNK1104: cannot open file '.\Debug\Sample.exe'

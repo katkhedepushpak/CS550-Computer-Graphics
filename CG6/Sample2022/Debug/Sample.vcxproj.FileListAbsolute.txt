@@ -1,0 +1,4 @@
+Y:\CS550\Sample2022\Debug\Sample.exe
+C:\Users\naren\Documents\CS-550_CG\Project_6-Shader\Sample2022\Debug\Sample.exe
+C:\Users\naren\Documents\OSU\CS-550_CG\Project_6-Shader\Sample2022\Debug\Sample.exe
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\Naren\Sample2022\Debug\Sample.exe

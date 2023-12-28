@@ -1,0 +1,11 @@
+﻿  sample.cpp
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(429,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(430,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(449,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(449,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(939,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(939,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(940,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\sample.cpp(940,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\katkh\OneDrive\Desktop\OSU\Classes\CS 550\CG3\Sample2022\Debug\Sample.exe
